@@ -1,0 +1,7 @@
+{
+    "eventType": "OrderFailed",
+    "orderId": "789012",
+    "orderStatus": "Failed",
+    "failureReason": "Inventory shortage"
+  }
+  

@@ -1,0 +1,6 @@
+{
+    "eventType": "SMSNotification",
+    "message": "Reminder: Daily Inspection is due today at 9 AM.",
+    "recipients": ["+1234567890", "+9876543210"]
+  }
+  

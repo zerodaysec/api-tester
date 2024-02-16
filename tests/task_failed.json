@@ -1,0 +1,7 @@
+{
+    "eventType": "TaskFailed",
+    "taskId": "789012",
+    "failureReason": "Equipment malfunction",
+    "failureTime": "2023-12-19T14:15:00Z"
+  }
+  

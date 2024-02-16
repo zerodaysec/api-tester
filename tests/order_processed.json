@@ -1,0 +1,8 @@
+{
+    "eventType": "OrderProcessed",
+    "orderId": "123456",
+    "orderStatus": "Completed",
+    "orderTotal": 24.99,
+    "orderTimestamp": "2023-12-12T10:30:00Z"
+  }
+  

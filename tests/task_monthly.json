@@ -1,0 +1,9 @@
+{
+    "eventType": "TaskScheduled",
+    "taskId": "345678",
+    "taskName": "Monthly Cleaning",
+    "schedule": "Monthly",
+    "nextExecutionTime": "2024-01-05T08:30:00Z",
+    "recipients": ["+3456789012", "+7654321098"]
+  }
+  

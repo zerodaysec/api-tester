@@ -1,0 +1,9 @@
+{
+    "eventType": "UserPreferencesUpdated",
+    "userId": "user123",
+    "updatedPreferences": {
+      "phoneNumber": "+1111111111",
+      "notificationSchedule": "Weekly"
+    }
+  }
+  

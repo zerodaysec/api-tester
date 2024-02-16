@@ -1,0 +1,8 @@
+{
+    "eventType": "InventoryLow",
+    "itemId": "1002",
+    "itemName": "Blueberry Muffin",
+    "currentQuantity": 10,
+    "threshold": 20
+  }
+  

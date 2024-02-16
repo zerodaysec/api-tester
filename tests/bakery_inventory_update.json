@@ -1,0 +1,7 @@
+{
+    "eventType": "InventoryUpdate",
+    "itemId": "1001",
+    "itemName": "Chocolate Croissant",
+    "quantityChange": -3
+  }
+  

@@ -1,0 +1,25 @@
+{
+    "eventType": "RecipeValidation",
+    "orderId": "123456",
+    "orderItems": [
+      {
+        "itemId": "1001",
+        "itemName": "Chocolate Croissant",
+        "requiredIngredients": [
+          "Flour",
+          "Chocolate",
+          "Butter"
+        ]
+      },
+      {
+        "itemId": "1002",
+        "itemName": "Blueberry Muffin",
+        "requiredIngredients": [
+          "Flour",
+          "Blueberries",
+          "Sugar"
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,21 @@
+{
+    "eventType": "OrderPlaced",
+    "orderId": "123456",
+    "customerName": "John Doe",
+    "orderItems": [
+      {
+        "itemId": "1001",
+        "itemName": "Chocolate Croissant",
+        "quantity": 3
+      },
+      {
+        "itemId": "1002",
+        "itemName": "Blueberry Muffin",
+        "quantity": 2
+      }
+    ],
+    "deliveryPreference": "Home delivery",
+    "deliveryAddress": "123 Main St, Cityville",
+    "orderTimestamp": "2023-12-12T10:00:00Z"
+  }
+  

@@ -1,0 +1,9 @@
+{
+    "eventType": "TaskScheduled",
+    "taskId": "123456",
+    "taskName": "Daily Inspection",
+    "schedule": "Daily",
+    "nextExecutionTime": "2023-12-12T09:00:00Z",
+    "recipients": ["+1234567890", "+9876543210"]
+  }
+  
