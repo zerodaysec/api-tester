@@ -49,7 +49,7 @@ jobs:
 
     # TODO: Use this when ready to push
       - name: Build and push
-        uses: docker/build-push-action@v5
+        uses: docker/build-push-action@v6
         with:
             push: false
             tags: zerodaysec/${{ env.SVC_NAME }}:testing
