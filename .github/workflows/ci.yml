@@ -28,7 +28,7 @@ jobs:
     steps:
       - uses: actions/checkout@master
 
-      - uses: hadolint/hadolint-action@v3.2.0
+      - uses: hadolint/hadolint-action@v3.3.0
         with:
           dockerfile: Dockerfile
 
